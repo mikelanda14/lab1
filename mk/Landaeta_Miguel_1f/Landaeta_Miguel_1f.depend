@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1570580844 source:d:\mk\landaeta_miguel_1f\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"juegos.h"
+
+1570365270 d:\mk\landaeta_miguel_1f\utn.h
+
+1570580194 d:\mk\landaeta_miguel_1f\juegos.h
+
+1570365270 source:d:\mk\landaeta_miguel_1f\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1570578325 source:d:\mk\landaeta_miguel_1f\main.c
+	<stdio.h>
+	<stdlib.h>
+	"juegos.h"
+

@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1570462748 source:c:\c#\practicaparcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"almuerzos.h"
+
+1570466605 source:c:\c#\practicaparcial1\almuerzos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"almuerzos.h"
+
+1570365268 source:c:\c#\practicaparcial1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1570414747 c:\c#\practicaparcial1\almuerzos.h
+
+1570365268 c:\c#\practicaparcial1\utn.h
+
+1570466606 source:d:\mk\practicaparcial1\almuerzos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"almuerzos.h"
+
+1570365270 d:\mk\practicaparcial1\utn.h
+
+1570414748 d:\mk\practicaparcial1\almuerzos.h
+
+1570462750 source:d:\mk\practicaparcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"almuerzos.h"
+
+1570365270 source:d:\mk\practicaparcial1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
